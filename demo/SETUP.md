@@ -11,7 +11,6 @@ sudo npm install -g npm
 ### Setup `searcher-sponsored-tx`
 Clone the repo
 ```
-cd ~/dev
 git clone https://github.com/peterargue/searcher-sponsored-tx.git
 ```
 
